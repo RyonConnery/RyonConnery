@@ -43,7 +43,9 @@ I build scalable web applications, AI tools, APIs, and databases
 ## Contact
 
 Email: [rtc12982@gmail.com](mailto:rtc12982@gmail.com)
+
 LinkedIn: https://www.linkedin.com/in/tomas-connery-565604202
-https://www.chenkosoftworks.com
+
+Website: https://www.chenkosoftworks.com
 
 Open to **remote engineering roles**.
