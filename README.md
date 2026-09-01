@@ -7,6 +7,9 @@ I build scalable web applications, AI tools, APIs, and databases
 ## Tech Stack
 
 * JavaScript
+* TypeScipt
+* Rust
+* Kotlin
 * React
 * Node.js
 * Python
@@ -16,7 +19,7 @@ I build scalable web applications, AI tools, APIs, and databases
 * Next.js
 * HTML
 * CSS
-* Unreal Engine
+* Unreal Engine 5.8
 * Vercel
 * Supabase
 * Deep Learning
